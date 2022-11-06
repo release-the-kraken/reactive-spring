@@ -1,4 +1,4 @@
-package com.rtk.reactivespring;
+package com.rtk.reactivespring.movie;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -11,4 +11,5 @@ public class Movie {
     long id;
     String title;
     String description;
+
 }
